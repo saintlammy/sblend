@@ -1,0 +1,65 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@font-face {
+  font-family: 'Sailec';
+  src: url('/fonts/Sailec-Black.otf');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sailec';
+  src: url('/fonts/Sailec-Bold.otf');
+  font-weight: 700;
+  font-style: normal;
+  }
+@font-face {
+  font-family: 'Sailec';
+  src: url('/fonts/Sailec-Medium.otf');
+  font-weight: 600;
+  font-style: normal;
+  }
+@font-face {
+  font-family: 'Sailec';
+  src: url('/fonts/Sailec.otf');
+  font-weight: 400;
+  font-style: normal;
+  }  
+@font-face {
+  font-family: 'Sailec';
+  src: url('/fonts/Sailec-Light.otf');
+  font-weight: 300;
+  font-style: normal;
+  }   
+@font-face {
+  font-family: 'Sailec';
+  src: url('/fonts/Sailec-Thin.otf');
+  font-weight: 200;
+  font-style: normal;
+  }  
+  @font-face {
+    font-family: 'IBMPlexMono';
+    src: url('/fonts/IBMPlexMono-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+  }  
+  @font-face {
+    font-family: 'IBMPlexMono';
+    src: url('/fonts/IBMPlexMono-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+  }  
+
+body{
+  background-color: #fbfcff;
+  color: #303030;
+}
+.nuxt-link-exact-active{
+  font-weight: 700;
+}
+.ibmfont{
+  font-family: IBMPlexMono;
+}
+.max-w-screen-xl {
+  max-width: 1350px!important;
+}
