@@ -108,14 +108,14 @@
                 <form action="">
                   <div class="flex flex-wrap items-center sm:justify-between">
                     <div class="w-full sm:w-1/22">
-                      <input placeholder="Name" type="text" class="w-full outline-none focus:outline-none border border-sgraydarker py-2 px-2 rounded-lg" name="name">
+                      <input placeholder="Name" type="text" class="w-full outline-none focus:outline-none border border-sgraydarker py-3 px-3 rounded" name="name">
                     </div>
                     <div class="w-full sm:w-1/22 mt-3 sm:mt-0">
-                      <input placeholder="Email" type="text" class="w-full outline-none focus:outline-none border border-sgraydarker py-2 px-2 rounded-lg" name="name">
+                      <input placeholder="Email" type="text" class="w-full outline-none focus:outline-none border border-sgraydarker py-3 px-3 rounded" name="name">
                     </div>
                   </div>
                   <div class="sm:w-1/3 md:w-1/5 lg:w-1/4 ml-auto mt-6">
-                    <button class="flex justify-between items-center bg-sbackground py-2 px-2 rounded-lg w-full">
+                    <button class="flex justify-between items-center bg-sbackground py-3 px-3 rounded w-full">
                       <span>Send</span>
                       <svg class="w-5 h-5 sm:w-6 sm:h-6" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="8" cy="8" r="8" fill="#0488E0"/>
@@ -136,7 +136,7 @@
           <p class="text-base">&copy; 2020 sblend.co</p>
         </div>
         <div class="pt-4">
-          <ul class="flex flex-col lg:flex-row items-center">
+          <ul class="flex flex-col lg:flex-row items-right">
             <li>Connect</li>
             <li class="lg:ml-6 mt-4 md:mt-0 underline">Facebook</li>
             <li class="lg:ml-6 underline">Linkedin</li>

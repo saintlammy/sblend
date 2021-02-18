@@ -2,7 +2,7 @@
   <div>
     <div class="lg:min-h-full bg-center" style="background:url('images/bg.png') no-repeat;  background-size: cover;">
       <Header/>
-      <div class="lg:my-32 h-64 sm:h-full xl:h-auto flex flex-col justify-center">
+      <div class="lg:my-32 h-64 xl:h-auto flex flex-col justify-center">
         <div class="px-4 sm:px-8 md:px-10 lg:px-14 xl:px-16 max-w-xl sm:max-w-2xl md:max-w-4xl xl:max-w-6xl xl:mx-auto leading-tight">
           <button class="font-light border px-2 py-0.5 rounded text-xs sm:text-sm border-sgraydarker hover:bg-sgraylighter duration-300 transition ease-in flex">Mobile App</button>
           <h1 class="fade1 tracking-wide text-3xl sm:text-7xl md:text-7xl xl:text-7xl font-bold text-sblue cursor-default">

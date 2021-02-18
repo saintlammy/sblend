@@ -129,14 +129,14 @@
         </div>
       </div>
       <div class="relative">
-        <div class="h-32 mt-10">
+        <div class="my-2">
           <video src="/videos/production.mp4" loop="true" autoplay></video>
         </div>
         <div class="absolute bg-gray-400 opacity-50 w-full top-0 h-64">
         </div>
       </div>
     </div>
-    <Footer/>
+    <div class="mt-0 pt-0"><Footer/></div>
   </div>
 </template>
 

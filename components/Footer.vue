@@ -8,7 +8,7 @@
           </div>
           <div class="flex flex-col md:flex-row md:items-center md:justify-between">
             <div class="w-full md:w-1/22">
-              <button class="bg-white mt-3 hover:bg-gray-300 hover:border-gray-300 transition ease-in duration-300 text-sm flex outline-none focus:outline-none items-center w-full justify-between px-4 py-3 rounded-lg">
+              <button class="bg-white mt-3 hover:bg-gray-300 hover:border-gray-300 transition ease-in duration-300 text-sm flex outline-none focus:outline-none items-center w-full justify-between px-4 py-3 rounded">
                 <span class="hover:underline">Contact us</span>
                 <svg class="w-6 h-6" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="8" cy="8" r="8" fill="#0488E0"/>
@@ -20,7 +20,7 @@
               or
             </div>
             <div class="w-full md:w-1/22">
-              <button class="border mt-3 hover:border-gray-600 transition ease-in duration-300 text-sm flex outline-none focus:outline-none items-center w-full justify-between px-4 py-3 rounded-lg">
+              <button class="border mt-3 hover:border-gray-600 transition ease-in duration-300 text-sm flex outline-none focus:outline-none items-center w-full justify-between px-4 py-3 rounded">
                 <span class="text-white max-w-xs hover:underline">Start a conversation</span>
                 <svg class="w-6 h-6" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="8" cy="8" r="8" fill="#ececec"/>
@@ -52,7 +52,7 @@
             <p class="text-sm underline hover:no-underline">&copy; 2020 sblend.co</p>
           </div>
           <div class="pt-4">
-            <ul class="flex flex-col lg:flex-row text-sm items-center">
+            <ul class="flex flex-col lg:flex-row text-sm items-right">
               <li>Connect:</li>
               <li class="lg:ml-6 mt-4 md:mt-0 underline hover:no-underline">Facebook</li>
               <li class="lg:ml-6 underline hover:no-underline">Linkedin</li>

@@ -129,7 +129,7 @@
         <div class="fade1">
           <div class="flex lg:flex-row flex-col mt-10 justify-end">
             <div class="sm:w-1/2 lg:w-3/4 flex items-end lg:justify-end order-last lg:order-first mt-10 lg:mt-0">
-              <nuxt-link to="/works" class="bg-sgraylight hover:bg-gray-200 transition ease-in duration-300 lg:max-w-xs text-lg md:text-xl flex outline-none focus:outline-none items-center w-full justify-between px-4 py-3 rounded-lg">
+              <nuxt-link to="/works" class="bg-sgraylight hover:bg-gray-200 transition ease-in duration-300 lg:max-w-xs text-lg md:text-xl flex outline-none focus:outline-none items-center w-full justify-between px-4 py-3 rounded">
                 <span>Our works</span>
                 <svg class="h-5 w-5 md:w-6 md:h-6" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="8" cy="8" r="8" fill="#0488E0"/>
@@ -232,8 +232,8 @@
         <div class="text-center fade1">
           <h3 class="text-xl sm:text-2xl md:text-3xl lg:text-5xl">See our <span class="underline hover:no-underline">Open Source Projects</span></h3>
           <div class="w-1/2 sm:w-1/3 lg:w-1/5 mx-auto mt-6 sm:mt-8">
-            <button class="bg-sblue hover:bg-blue-700 transition ease-in duration-300 text-sm sm:text-lg lg:text-xl flex outline-none focus:outline-none items-center w-full justify-between px-4 py-2 sm:py-3 rounded-lg">
-              <span class="text-white">Learn more</span>
+            <button class="bg-sblue hover:bg-blue-700 transition ease-in duration-300 text-sm sm:text-lg lg:text-xl flex outline-none focus:outline-none items-center w-full justify-between px-4 py-3 sm:py-3 rounded">
+              <span class="text-white hover:underline">Learn more</span>
               <svg class="w-5 h-5 sm:w-6 sm:h-6" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="8" cy="8" r="8" fill="#fff"/>
                 <path d="M8.51625 7.41024V4.88574H7.44525V7.41024H4.92075V8.41749H7.44525V11.0057H8.51625V8.41749H11.0407V7.41024H8.51625Z" fill="#0488E0"/>
@@ -267,8 +267,8 @@
                       > since 2016
                     </div>
                   </div>
-                  <button class="bg-sblue mt-3 hover:bg-blue-700 transition ease-in duration-300 text-lg md:text-xl flex outline-none focus:outline-none items-center w-full justify-between px-4 py-2 md:py-3 rounded-lg">
-                    <span class="text-white">Learn more</span>
+                  <button class="bg-sblue mt-3 hover:bg-blue-700 transition ease-in duration-300 text-lg md:text-xl flex outline-none focus:outline-none items-center w-full justify-between px-4 py-3 md:py-3 rounded">
+                    <span class="text-white hover:underline">Learn more</span>
                     <svg class="w-5 h-5 md:w-6 md:h-6" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <circle cx="8" cy="8" r="8" fill="#fff"/>
                       <path d="M8.51625 7.41024V4.88574H7.44525V7.41024H4.92075V8.41749H7.44525V11.0057H8.51625V8.41749H11.0407V7.41024H8.51625Z" fill="#0488E0"/>
