@@ -2,10 +2,10 @@
   <div>
     <div class="lg:min-h-full bg-center" style="background:url('images/bg.png') no-repeat;  background-size: cover;">
       <Header/>
-      <div class="lg:my-32 h-64 sm:h-64.5 xl:h-auto flex flex-col justify-center">
+      <div class="lg:my-32 h-64 sm:h-full xl:h-auto flex flex-col justify-center">
         <div class="px-4 sm:px-8 md:px-10 lg:px-14 xl:px-16 max-w-xl sm:max-w-2xl md:max-w-4xl xl:max-w-6xl xl:mx-auto leading-tight">
           <button class="font-light border px-2 py-0.5 rounded text-xs sm:text-sm border-sgraydarker hover:bg-sgraylighter duration-300 transition ease-in flex">Mobile App</button>
-          <h1 class="fade1 tracking-wide text-3xl sm:text-5xl md:text-5xl xl:text-7xl font-bold text-sblue cursor-default">
+          <h1 class="fade1 tracking-wide text-3xl sm:text-7xl md:text-7xl xl:text-7xl font-bold text-sblue cursor-default">
             We collaborate with ambitious brands and people.
           </h1>
         </div>
@@ -60,7 +60,7 @@
           </p>
         </div>
       </div>
-      <div class="h-32 md:h-64.5 bg-center mt-20" style="background:url('images/work.png') no-repeat;  background-size: cover;"></div>
+      <div class="h-64 sm:h-80 md:h-64.5 bg-center mt-20" style="background:url('images/work.png') no-repeat;  background-size: cover;"></div>
       <div class="mt-20">
         <div class="px-4 sm:px-8 md:px-10 mt-8 lg:px-14 xl:px-16">
           <div class="leading-tight">
@@ -119,19 +119,7 @@
                 <div class="border-b border-sgraydarker"></div>
               </div>
             </div>
-            <div class="fade1">
-              <img src="images/ayodeji.png" class="" alt="">
-              <div class="mt-2">
-                <p class="font-semibold text-base sm:text-lg">Ayodeji</p>
-                <p class="text-sm sm:text-base">Mobile Developer</p>
-              </div>
-              <div class="mt-10 hidden sm:block">
-                <p>04</p>
-              </div>
-              <div class="w-full mt-10 sm:hidden">
-                <p>04</p>
-                <div class="border-b border-sgraydarker"></div>
-              </div>
+            
             </div>
           </div>
         </div>
