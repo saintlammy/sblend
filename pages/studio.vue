@@ -76,7 +76,7 @@
           </div>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-10 sm:border-b border-sgraydarker">
             <div class="fade1">
-              <img src="images/bl1.png" class="rounded-lg irt1" alt="">
+              <img src="images/olamide.png" class="irt1" alt="">
               <div class="mt-2">
                 <p class="font-semibold text-base sm:text-lg">Olamide</p>
                 <p class="text-sm sm:text-base">Founder & Executive Director</p>
@@ -90,7 +90,7 @@
               </div>
             </div>
             <div class="fade1">
-              <img src="images/bl2.png" class="rounded-lg " alt="">
+              <img src="images/mike.png" class=" " alt="">
               <div class="mt-2">
                 <p class="font-semibold text-base sm:text-lg">Michael</p>
                 <p class="text-sm sm:text-base">Co-Founder & Technical Director</p>
@@ -106,7 +106,7 @@
           </div>
           <div class="grid grid-cols-1 sm:grid-cols-2 sm:border-b border-sgraydarker gap-3 mt-10">
             <div class="fade1">
-              <img src="images/bl1.png" class="rounded-lg" alt="">
+              <img src="images/testimony.png" class="" alt="">
               <div class="mt-2">
                 <p class="font-semibold text-base sm:text-lg">Testimony</p>
                 <p class="text-sm sm:text-base">Operational Manager</p>
@@ -120,7 +120,7 @@
               </div>
             </div>
             <div class="fade1">
-              <img src="images/bl2.png" class="rounded-lg" alt="">
+              <img src="images/ayodeji.png" class="" alt="">
               <div class="mt-2">
                 <p class="font-semibold text-base sm:text-lg">Ayodeji</p>
                 <p class="text-sm sm:text-base">Mobile Developer</p>
