@@ -28,7 +28,7 @@
                       <circle cx="8" cy="8" r="8" fill="#0488E0"/>
                       <path d="M8.51625 7.41024V4.88574H7.44525V7.41024H4.92075V8.41749H7.44525V11.0057H8.51625V8.41749H11.0407V7.41024H8.51625Z" fill="#fff"/>
                     </svg>
-                    <a href="mailto:t.olamideagboola@sblend.co?subject=Hi Elendu" class="hover:underline ml-2 text-sm">olamideagboola@sblend.co</a>
+                    <a href="mailto:olamideagboola@sblend.co?subject=Hi Elendu" class="hover:underline ml-2 text-sm">olamideagboola@sblend.co</a>
                   </div>
                   <div class="flex items-center sm:ml-4">
                     <svg class="w-4 h-4" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -52,7 +52,7 @@
                       <circle cx="8" cy="8" r="8" fill="#0488E0"/>
                       <path d="M8.51625 7.41024V4.88574H7.44525V7.41024H4.92075V8.41749H7.44525V11.0057H8.51625V8.41749H11.0407V7.41024H8.51625Z" fill="#fff"/>
                     </svg>
-                    <a href="mailto:t.okemichael@sblend.co?subject=Hi Elendu" class="hover:underline ml-2 text-sm">okemichael@sblend.co</a>
+                    <a href="mailto:oke.m@sblend.co?subject=Hi Elendu" class="hover:underline ml-2 text-sm">oke.m@sblend.co</a>
                   </div>
                   <div class="flex items-center sm:ml-4">
                     <svg class="w-4 h-4" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">

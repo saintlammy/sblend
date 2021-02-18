@@ -43,9 +43,9 @@
         <div class="mt-10 md:mt-20">
           <div class="border-t-2">
             <div class="flex justify-between mt-4">
-              <p class="font-light text-sblack hidden md:block"> >Details</p>
+              <p class="font-light text-sblack hidden md:block text-xs"> >Details</p>
               <div>
-                <p class="font-light text-sblack text-xs sm:text-base"> >2020</p>
+                <p class="font-light text-sblack text-xs sm:text-xs"> >2020</p>
                 <p class="font-semibold text-xs sm:text-base">Menorah Farms</p>
               </div>
               <div class="flex items-center">
@@ -61,9 +61,9 @@
         <div class="mt-20">
           <div class="border-t-2">
             <div class="flex justify-between mt-4">
-              <p class="font-light text-sblack hidden md:block"> >Details</p>
+              <p class="font-light text-sblack hidden md:block text-xs"> >Details</p>
               <div>
-                <p class="font-light text-sblack text-xs sm:text-base"> >2020</p>
+                <p class="font-light text-sblack text-xs sm:text-xs"> >2020</p>
                 <p class="font-semibold text-xs sm:text-base">Agribusiness Capital</p>
               </div>
               <div class="flex items-center">
@@ -79,9 +79,9 @@
         <div class="mt-20">
           <div class="border-t-2">
             <div class="flex justify-between mt-4">
-              <p class="font-light text-sblack hidden md:block"> >Details</p>
+              <p class="font-light text-sblack hidden md:block text-xs"> >Details</p>
               <div>
-                <p class="font-light text-sblack text-xs sm:text-base"> >2018</p>
+                <p class="font-light text-sblack text-xs sm:text-xs"> >2018</p>
                 <p class="font-semibold text-xs sm:text-base">Spragglers</p>
               </div>
               <div class="flex items-center">
@@ -138,7 +138,7 @@
               </nuxt-link>
             </div>
             <div class="w-full lg:ml-10 xl:ml-0 lg:w-1/3 flex lg:justify-end">
-              <p class="max-w-md lg:max-w-xs lg:text-left text-base sm:text-lg md:text-xl font-medium">
+              <p class="max-w-md lg:max-w-xs lg:text-left text-base sm:text-sm md:text-lg font-medium">
                 We serve all businesses with 
                 passion: huge corporations
                 or manufacturers/producers
@@ -230,7 +230,7 @@
       </div>
       <div class="my-10 md:my-16 lg:my-24">
         <div class="text-center fade1">
-          <h3 class="text-xl sm:text-2xl md:text-3xl lg:text-5xl">See our <span class="underline">Open Source Projects</span></h3>
+          <h3 class="text-xl sm:text-2xl md:text-3xl lg:text-5xl">See our <span class="underline hover:no-underline">Open Source Projects</span></h3>
           <div class="w-1/2 sm:w-1/3 lg:w-1/5 mx-auto mt-6 sm:mt-8">
             <button class="bg-sblue hover:bg-blue-700 transition ease-in duration-300 text-sm sm:text-lg lg:text-xl flex outline-none focus:outline-none items-center w-full justify-between px-4 py-2 sm:py-3 rounded-lg">
               <span class="text-white">Learn more</span>

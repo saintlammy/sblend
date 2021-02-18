@@ -22,7 +22,7 @@
               <div class="h-40 bg-darkgrayer hover:bg-sbackground transition ease-in duration-300 rounded-lg mt-2 flex flex-col justify-between py-3">
                 <div class="flex px-3">
                   <div>
-                    <p class="text-darkcolor">2020</p>
+                    <p class="text-darkcolor text-xs">2020</p>
                     <p class="text-sgraydark font-semibold text-lg">Menorah Farms</p>
                   </div>
                 </div>
@@ -47,7 +47,7 @@
               <div class="h-40 bg-darkgrayer hover:bg-sbackground transition ease-in duration-300 rounded-lg mt-2 flex flex-col justify-between py-3">
                 <div class="flex px-3">
                   <div>
-                    <p class="text-darkcolor">2020</p>
+                    <p class="text-darkcolor text-xs">2020</p>
                     <p class="text-sgraydark font-semibold text-lg">Agribusiness Capital</p>
                   </div>
                 </div>
@@ -77,7 +77,7 @@
               <div class="h-40 bg-darkgrayer hover:bg-sbackground transition ease-in duration-300 rounded-lg mt-2 flex flex-col justify-between py-3">
                 <div class="flex px-3">
                   <div>
-                    <p class="text-darkcolor">2018</p>
+                    <p class="text-darkcolor text-xs">2018</p>
                     <p class="text-sgraydark font-semibold text-lg">Tradersfield</p>
                   </div>
                 </div>
@@ -104,7 +104,7 @@
               <div class="h-40 bg-darkgrayer hover:bg-sbackground transition ease-in duration-300 rounded-lg mt-2 flex flex-col justify-between py-3">
                 <div class="flex px-3">
                   <div>
-                    <p class="text-darkcolor">2018</p>
+                    <p class="text-darkcolor text-xs">2018</p>
                     <p class="text-sgraydark font-semibold text-lg">Spragglers</p>
                   </div>
                 </div>

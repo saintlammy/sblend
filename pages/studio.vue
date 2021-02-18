@@ -18,32 +18,32 @@
           <div class="flex flex-wrap justify-between">
             <div class="w-full md:w-1/2 lg:w-1/3 irt">
               <div class="max-w-xs">
-                <h2 class="text-lg sm:text-xl md:text-2xl text-dark">Founded</h2>
-                <p class="text-base sm:text-lg mt-2 md:mt-6 text-dark">
+                <h2 class="text-base sm:text-base md:text-base text-dark">Founded</h2>
+                <p class="text-sm sm:text-sm mt-2 md:mt-6 text-dark">
                   In 2016 by two misfits
-                  who wanted to cause
-                  a shift in the digital 
+                  who <br> to cause
+                  a shift in the digital <br>
                   industry forever.
                 </p>
               </div>
             </div>
             <div class="w-full md:w-1/2 lg:w-1/3 mt-5 sm:mt-8 md:mt-0 irt">
               <div class="max-w-xs">
-                <h2 class="text-lg sm:text-xl md:text-2xl text-dark">Location</h2>
-                <p class="text-base sm:text-lg mt-2 md:mt-6 text-dark">
+                <h2 class="text-base sm:text-base md:text-base text-dark">Location</h2>
+                <p class="text-sm sm:text-sm mt-2 md:mt-6 text-dark">
                   We are based in Lagos,
-                  Nigeria. In 90% work 
+                  Nigeria. <br> In 90% work 
                   with foreign clients.
                 </p>
               </div>
             </div>
             <div class="w-full md:w-1/2 lg:w-1/3 mt-5 sm:mt-8 lg:mt-0 irt">
               <div class="max-w-xs">
-                <h2 class="text-lg sm:text-xl md:text-2xl text-dark">People</h2>
-                <p class="text-base sm:text-lg mt-2 md:mt-6 text-dark">
-                  Gathering only open-minded personalities
+                <h2 class="text-base sm:text-base md:text-base text-dark">People</h2>
+                <p class="text-sm sm:text-sm mt-2 md:mt-6 text-dark">
+                  Gathering only open-minded <br> personalities
                   who don’t see any limits
-                  in self-improvement.
+                  <br> in self-improvement.
                 </p>
               </div>
             </div>
@@ -65,7 +65,7 @@
         <div class="px-4 sm:px-8 md:px-10 mt-8 lg:px-14 xl:px-16">
           <div class="leading-tight">
             <h1 class="text-2xl sm:text-3xl font-semibold">Creators</h1>
-            <p class="text-sm text-dark">(2016 - 2020)</p>
+            <p class="text-xs text-dark">(2016 - 2020)</p>
           </div>
           <div class="max-w-md mt-4 sm:mt-8">
             <p class="text-dark text-base sm:text-lg fade1">
@@ -151,7 +151,7 @@
               <div>
                 Sblend Family
               </div>
-              <div>
+              <div class="text-xs">
                 >2016
               </div>
             </div>
