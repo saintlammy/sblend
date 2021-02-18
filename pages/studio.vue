@@ -148,7 +148,6 @@
       </div>
       <Footer/>
     </div>
-  </div>
 </template>
 
 <script>
@@ -201,7 +200,5 @@ import { ScrollTrigger } from "gsap/dist/ScrollTrigger.js";
    
   }
 </script>
-
 <style lang="scss" scoped>
-
 </style>
